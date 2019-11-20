@@ -2,7 +2,7 @@
 *.apk
 *.ap_
 
-# Made change #7
+# Made change #8
 
 # Files for the ART/Dalvik VM
 *.dex
